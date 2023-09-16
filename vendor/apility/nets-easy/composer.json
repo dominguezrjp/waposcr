@@ -1,0 +1,28 @@
+{
+  "name": "apility/nets-easy",
+  "description": "Nets Easy library",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "Nets",
+    "Payment"
+  ],
+  "config": {
+    "sort-packages": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Nets\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.3|^7.4|^8.0",
+    "illuminate/support": ">=5.5 <9.0",
+    "nesbot/carbon": ">=1.26 <3.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require-dev": {
+    "vlucas/phpdotenv": ">=4.1 <5"
+  }
+}

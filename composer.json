@@ -1,0 +1,27 @@
+{
+
+    "name": "nazmul/qrexorder",
+    "description": "saas Restaurants / QR Menu / WhatsApp Online ordering / Reservation system",
+    "type": "project",
+    "keywords": ["framework", "codeigniter"],
+    "license": "MIT",
+    "require": {
+        "twilio/sdk": "^7.7.1",
+        "phpmailer/phpmailer": "^6.5",
+        "mercadopago/dx-php": "2.4.3",
+        "paytm/paytm-pg": "^0.0.5",
+        "paytm/paytmchecksum": "^1.1",
+        "stripe/stripe-php": "^7.100",
+        "sendgrid/sendgrid": "^8.0",
+        "flutterwavedev/flutterwave-v3": "^1.0",
+        "orhanerday/open-ai": "4.6",
+        "pusher/pusher-php-server": "^7.2",
+        "vlucas/phpdotenv": "^2.6",
+        "ultramsg/whatsapp-php-sdk": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "PHPLIME"
+        }
+    ]
+}

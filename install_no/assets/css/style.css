@@ -1,0 +1,251 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+    color: #333333;
+    background-size:cover;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.8;
+    overflow-x: hidden;
+    background: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #232323;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.success{
+    color:  green;
+  }
+  .error{
+    color:  red;
+  }
+input.invalid, select.invalid, textarea.invalid {
+  background-color: #ffdddd;
+  border-color: red;
+}
+
+input.valid, select.valid, textarea.valid {
+  background-color: #e4f1ec;
+  border-color: #4AA96C;
+}
+
+/*remove chrome autofill yellow background*/
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+}
+.p-0{
+    padding: 0;
+}
+
+.pt-50{
+    padding-top: 50px;
+}
+
+.pt-15{
+    padding-top: 15px;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+/*-----------------------------
+ 2. Form Styles 
+-------------------------------*/
+.form-control{
+    height: 47px!important;
+    border-radius: 0!important;
+}
+
+
+.easy_form_text h2{
+    color: #fff;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.easy_error_msg{
+    font-size: 13px;
+    padding: 10px 5px;
+    margin-bottom: 10px;
+}
+
+.easy_error_msg.text-danger{
+    border: 1px solid red;
+}
+
+.easy_error_msg.text-success{
+    border: 1px solid green;
+}
+
+.easy_form_text p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+
+.mx-wd{
+    max-width: 780px; 
+}
+
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../images/loader.gif');
+    background-repeat: no-repeat; 
+    background-color: #FFF;
+    background-position: center;
+}
+
+
+.install_area{
+    margin-top: 20px;
+}
+
+.install_area i {
+    font-size: 44px;
+    margin: 0 auto;
+    display: block
+    width: 100%;;
+}
+
+.mainBody .card {min-height: 364px;}
+.card {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    background: #fff;
+    border-radius:6px;
+    box-shadow: 0 0.2rem 0.2rem #f1f1f1 !important;
+    border: 1px solid #f1f1f1;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+
+}
+.card-footer {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    background: #fff;
+    border-radius: 0 0 6px 6px;
+    box-shadow: 0 0.2rem 0.2rem #f1f1f1 !important;
+    overflow: hidden;
+    border-top: 4px solid #ecf0f5;
+}
+
+.card-header {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    background: #fff;
+    border-radius: 6px 6px 0 0;
+    box-shadow: 0 0.1rem 0.1rem #f1f1f1 !important;
+    overflow: hidden;
+    border-bottom: 1px solid #f1f1f1;
+    text-transform: capitalize;
+}
+.card-header, .card-footer {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+}
+.card {
+    margin-bottom: 5px;
+}
+.card-header h4, .card-title{
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+
+
+
+.btn-loading {
+  color: transparent !important;
+  pointer-events: none;
+  position: relative;
+}
+
+.btn-loading:after {
+  content: '';
+  -webkit-animation: loader 500ms infinite linear;
+  animation: loader 500ms infinite linear;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  border-right-color: transparent !important;
+  border-top-color: transparent !important;
+  display: block;
+  height: 1.4em;
+  width: 1.4em;
+  position: absolute;
+  left: calc(50% - (1.4em / 2));
+  top: calc(50% - (1.4em / 2));
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  position: absolute !important;
+}
+
+.btn-loading.btn-sm:after, .btn-group-sm > .btn-loading.btn:after {
+  height: 1em;
+  width: 1em;
+  left: calc(50% - (1em / 2));
+  top: calc(50% - (1em / 2));
+}
+
+.btn-loading.btn-secondary:after {
+  border-color: #495057;
+}
+
+@-webkit-keyframes loader {
+  from {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes loader {
+  from {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.btn.btn-primary.btn-submit {
+    padding: 11px 21px;
+    background: #0f9d58;
+    border-color: #0f9d58;
+    color: #fff;
+    border: solid 1px;
+    cursor: pointer;
+}

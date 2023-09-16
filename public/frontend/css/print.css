@@ -1,0 +1,142 @@
+body{
+	background-color: #e9ecef
+}
+.card {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+	word-wrap: break-word;
+	border: 1px solid rgba(0, 0, 0, .05);
+	background-color: #fff;
+	background-clip: border-box;
+	border-radius: 20px;
+	padding-top: 10px;
+	padding: 30px;
+}
+.text-danger-m1 {
+	color: #dd4949!important;
+}
+.text-primary-m1 {
+	color: #4087d4!important;
+}
+.btn {
+	font-size: .875rem;
+	position: relative;
+	transition: all .15s ease;
+	letter-spacing: .025em;
+	text-transform: none;
+	will-change: transform;
+}
+table.customTable.invoiceTable th{
+	background-color: #5e72e4!important;
+	color: #fff!important;
+}
+td p{
+	text-transform: capitalize;
+}
+.page-tools {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	padding: 20px;
+	margin-top: 4em;
+}
+
+.action-buttons a {
+	padding: 10px 21px;
+	box-shadow: 0 0 5px #ddd;
+}
+
+.customerInfo h3 {
+	font-size: 18px;
+}
+
+.customerInfo h2 {
+	text-align: left;
+	font-size: 19px;
+}
+.extars ul {
+	list-style: inside;
+	color: #777;
+}
+.extars ul li{
+	font-size: 13px;
+}
+.sizeTag {
+	background: rgba(22, 199, 154, .1);
+	color: rgba(22, 199, 154, 1);
+	border-radius: 4px;
+	padding: 5px 6px;
+	font-size: 13px;
+	font-weight: normal;
+}
+.b-top{
+	border-top: 1px dashed #777;
+	padding: 2px;
+	margin-top: 2px;
+}
+tr th{
+	text-transform: capitalize;
+}
+table.customTable {
+	font-size: 14px;
+}
+
+table.customTable th {
+	font-size: 14px;
+}
+
+table.customTable tr {
+	vertical-align: middle;
+}
+
+table.customTable tr td {
+	vertical-align: middle;
+}
+.badge {
+	text-transform: capitalize;
+	padding: 5px 6px;
+	border-radius: 4px;
+}
+.orderTag{
+	font-weight: 600;
+	color: tomato;
+}
+.action-buttons a {
+	padding: 10px 21px;
+	box-shadow: 0 0 5px #ddd;
+}
+.bg-white {
+	background-color: #fff!important;
+}
+.text-danger-m1 {
+	color: #dd4949!important;
+}
+.text-primary-m1 {
+	color: #4087d4!important;
+}
+.text-green {
+	color: rgba(22, 199, 154, 1);
+	font-weight: normal;
+	padding: 5px 6px;
+	font-size: 13px;
+}
+.page-content * {
+	text-transform: capitalize!important;
+}
+@media  print
+{    
+	.no-print, .no-print *
+	{
+		display: none !important;
+	}
+	.badge.sizeTag {
+		color: rgba(22, 199, 154, 1);
+		font-weight: normal;
+		padding: 5px 6px;
+		font-size: 13px;
+		background: transparent;
+		border: 0;
+	}
+}
